@@ -134,8 +134,6 @@ Showcasing the Profi app I helped build:
   <img src="images/profi-app-2.png" alt="Profi App Screenshot 2" width="300" style="margin: 10px;"/>
 </div>
 
-*Tip: Place your Profi app screenshots in an `images` folder within your repository and update the file names if needed.*
-
 ---
 
 ## 📊 GitHub Stats

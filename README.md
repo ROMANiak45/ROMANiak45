@@ -77,6 +77,26 @@ I'm an iOS / Swift Developer passionate about crafting intuitive and high-perfor
         <br/>Jira
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="https://tuist.io/" target="_blank" rel="noreferrer"> 
+          <img src="https://avatars.githubusercontent.com/u/42096937?s=200&v=4" alt="Tuist" width="40" height="40"/> 
+        </a>
+        <br/>Tuist
+      </td>
+      <td align="center">
+        <a href="https://fastlane.tools/" target="_blank" rel="noreferrer"> 
+          <img src="https://avatars.githubusercontent.com/u/11001759?s=200&v=4" alt="Fastlane" width="40" height="40"/> 
+        </a>
+        <br/>Fastlane
+      </td>
+      <td align="center">
+        <a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.charlesproxy.com/assets/img/charles-proxy-logo.svg" alt="Charles Proxy" width="40" height="40"/> 
+        </a>
+        <br/>Charles Proxy
+      </td>
+    </tr>
   </table>
 </p>
 

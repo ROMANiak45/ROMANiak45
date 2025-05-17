@@ -109,6 +109,16 @@ I'm an iOS / Swift Developer passionate about crafting intuitive and high-perfor
 
 ## 💻 Experience
 
+- **Swiftleet Craft (Feb 2025 - current)**
+  - Freelance projects.
+  - Build iOS SDK.
+  - Setup CI/CD pipelines.
+
+- **DB Global Technology SRL (Apr 2025 - current)**
+  - Development of robust components using SwiftUI.
+  - Engineered custom UI components and integrated modern features such as Async/Await and Combine.
+  - Collaborated with cross-functional teams, leveraging CLEAN architecture and modular design to deliver high-performance apps.
+
 - **Lobyco SRL (Jun 2022 – Jan 2025)**
   - Spearheaded the development of robust iOS applications using UIKit/SwiftUI.
   - Focused on the seamless integration of the Profi app, enhancing its core functionalities and ensuring a unified user experience.

@@ -160,14 +160,6 @@ Showcasing the Profi app I helped build:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROMANiak45&show_icons=true&theme=default&cache_seconds=1800" alt="GitHub Stats"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">

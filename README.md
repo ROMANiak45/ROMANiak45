@@ -147,19 +147,6 @@ I'm an iOS / Swift Developer passionate about crafting intuitive and high-perfor
 
 ---
 
-## 📸 Projects & Screenshots
-
-### Profi App
-
-Showcasing the Profi app I helped build:
-
-<div align="center">
-  <img src="images/profi-app-1.png" alt="Profi App Screenshot 1" width="300" style="margin: 10px;"/>
-  <img src="images/profi-app-2.png" alt="Profi App Screenshot 2" width="300" style="margin: 10px;"/>
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
